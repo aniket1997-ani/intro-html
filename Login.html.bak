@@ -1,0 +1,28 @@
+<html>
+<head>
+<link rel="stylesheet" href="login.css">
+</head>
+<body>
+<center>
+<div class "loginbox">
+ <h1>Login Here</h1>
+        <form action="">
+            <p><font color="white"><h4>Username</h4></font></p>
+            <input type="text" name="" placeholder="Enter Username">
+            <p><font color="white"><h4>Password</h4></font></p>
+            <input type="password" name="" placeholder="Enter Password"> 
+            <br><br><a href="http://localhost/Sai%20mobile/login%20success.html">
+			<input type="button" value="Login"> <br>
+            </a><br>
+			<font  color ="red">Forgot Password?</a> <br><br>
+            Create New account</font>
+			<br> <br>
+<marquee>
+<h1>
+<font color="yellow" face ="Algerian">
+Must Visit Once a Time...
+</h1>
+<marquee>
+</div>
+</body>
+</html>
